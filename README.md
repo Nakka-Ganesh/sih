@@ -1,4 +1,7 @@
 # ☎️ DialIQ AI
+https://dialiq-taupe.vercel.app/
+https://sih-nine-kappa.vercel.app/
+
 
 ### One Citizen → One Interface → Multiple Government Services
 
